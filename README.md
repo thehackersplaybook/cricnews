@@ -1,4 +1,4 @@
-# CricNews 🏏
+# CricNews 🏏 (WIP)
 
 > 🔥 This is a fun, research project developed with the intention to demonstrate [FireCrawl](https://www.firecrawl.dev/). 🔥
 
